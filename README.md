@@ -4,3 +4,4 @@ The website will link to various other pages that each contain one recipe.
 
 Credits: Burger Sauce image designed by tohamina on Freepik
          Lasagna image designed by timolina on Freepik
+         Rack of lamb image designed by mrsiraphol on Freepik
